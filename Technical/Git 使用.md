@@ -49,9 +49,6 @@ Pull Request:
 - `ci` 持续集成
 - `types` 类型定义文件更改
 - `wip` 开发中
-
-  
-
   
 
 Git bash 执行命令
@@ -319,3 +316,20 @@ git checkout remote/branch-name
 ```
 git branch -a
 ```
+
+
+
+npx degit w3cj/hono-open-api-starter my-api
+### **命令解析**​
+
+1. ​**`npx degit`**​
+    
+    - `degit` 是一个工具，直接克隆 GitHub 仓库的最新代码（不包含 `.git` 历史记录），比 `git clone` 更轻量。
+    - `npx` 会自动下载并运行 `degit`，无需提前安装。
+2. ​**`w3cj/hono-open-api-starter`**​
+    
+    - 模板仓库地址：w3cj/hono-open-api-starter
+    - 这是一个预设了 Hono 框架 + OpenAPI 规范的 Starter 项目，包含基础路由、Swagger UI 文档等配置。
+3. ​**`my-api`**​
+    
+    - 自定义的项目目录名称（可替换为你想要的名称）。
