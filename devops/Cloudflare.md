@@ -13,3 +13,6 @@ wrangler.toml
 
 wrangler login
 wrangler dev
+
+github
+[rickyrobinett/gpt-imagegen-r2: A simple example showing how to save and retrieve gpt-image-1 generated images with Cloudflare R2](https://github.com/rickyrobinett/gpt-imagegen-r2/tree/main)
