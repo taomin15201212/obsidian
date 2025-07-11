@@ -10,6 +10,10 @@ https://refly.ai/share/code/cod-fpvp6qm8v4faaj4nzx8lwwi8
 
 https://refly.ai/share/code/cod-mndplsmkfqj0sumu9r8y7u8x
 
+透镜模式
+https://refly.ai/share/code/cod-rmosb5ovqac6wu5k2pzpf9sy
+https://refly.ai/share/code/cod-s8podlt1ykl0u83w316agpb9
+
   
 
 本地部署
