@@ -78,3 +78,30 @@ export http_proxy="http://$HOST_IP:7890"
 export https_proxy="http://$HOST_IP:7890"
 ```
 curl -v https://www.google.com
+
+
+
+Kimi K2
+```bash
+curl -fsSL https://raw.githubusercontent.com/LLM-Red-Team/kimi-cc/main/install.sh -o install.sh
+
+bash install.sh
+```
+windows下
+```powershell
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/LLM-Red-Team/kimi-cc/main/install.sh" -OutFile "install.ps1"
+./install.sh
+```
+
+
+## **使用 Git Bash**
+```bash
+# 下载脚本
+curl -fsSL https://raw.githubusercontent.com/LLM-Red-Team/kimi-cc/main/install.sh -o install.sh
+
+# 赋予执行权限（如果需要）
+chmod +x install.sh
+
+# 运行
+./install.sh
+```
