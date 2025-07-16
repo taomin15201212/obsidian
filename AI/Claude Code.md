@@ -105,3 +105,37 @@ chmod +x install.sh
 # 运行
 ./install.sh
 ```
+
+
+Windows就有点复杂了
+1.安装gitbash git-scm.com
+download/win
+2.在 git bash 里运行bash -c"$(curl -fsSL https://raw.githubusercontent.comLLM-Red-Team/kimi-cc/refsheads/main/install.sh)"
+3.npm install -g @anthropic-ai/claude-code --ignore-
+scripts
+4.npx win-claude-code@latest
+
+文件.claude.json
+"customApiKeyResponses": {  
+  "approved": [  
+    "sk-jOxpDsXFoNJJOyyq6mcELhTKDEaV8HwKWh6dGN1gRbg2zgGM",  
+    "8HwKWh6dGN1gRbg2zgGM"  
+  ],  
+  "rejected": []  
+},
+
+文件.bashrc
+#Claude Code environment variables
+export ANTHROPIC_BASE_URL=https://api.moonshot.cn/anthropic/  
+export ANTHROPIC_API_KEY=sk-jOxpDsXFoNJJOyyq6mcELhTKDEaV8HwKWh6dGN1gRbg2zgGM
+
+
+文件C:\Users\TAOM\.claude\settings.json
+{  
+  "env": {  
+    "HTTPS_PROXY": "http://127.0.0.1:7890",  
+    "ANTHROPIC_BASE_URL": "https://api.moonshot.cn/anthropic/",  
+    "ANTHROPIC_API_KEY": "sk-jOxpDsXFoNJJOyyq6mcELhTKDEaV8HwKWh6dGN1gRbg2zgGM"  
+  },  
+  "model": "opus"  
+}
