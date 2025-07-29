@@ -105,3 +105,72 @@ chmod +x install.sh
 # 运行
 ./install.sh
 ```
+
+
+Windows就有点复杂了
+1.安装gitbash git-scm.com
+download/win
+2.在 git bash 里运行bash -c"$(curl -fsSL https://raw.githubusercontent.comLLM-Red-Team/kimi-cc/refsheads/main/install.sh)"
+3.npm install -g @anthropic-ai/claude-code --ignore-
+scripts
+4.npx win-claude-code@latest
+
+文件.claude.json
+"customApiKeyResponses": {  
+  "approved": [  
+    "sk-jOxpDsXFoNJJOyyq6mcELhTKDEaV8HwKWh6dGN1gRbg2zgGM",  
+    "8HwKWh6dGN1gRbg2zgGM"  
+  ],  
+  "rejected": []  
+},
+
+文件.bashrc
+#Claude Code environment variables
+export ANTHROPIC_BASE_URL=https://api.moonshot.cn/anthropic/  
+export ANTHROPIC_API_KEY=sk-jOxpDsXFoNJJOyyq6mcELhTKDEaV8HwKWh6dGN1gRbg2zgGM
+
+
+文件C:\Users\TAOM\.claude\settings.json
+{  
+  "env": {  
+    "HTTPS_PROXY": "http://127.0.0.1:7890",  
+    "ANTHROPIC_BASE_URL": "https://api.moonshot.cn/anthropic/",  
+    "ANTHROPIC_API_KEY": "sk-jOxpDsXFoNJJOyyq6mcELhTKDEaV8HwKWh6dGN1gRbg2zgGM"  
+  },  
+  "model": "opus"  
+}
+
+
+**Qwen3 cc**
+https://dashscope.aliyuncs.com/compatible-mode/v1
+sk-904fd5652bc2456381983b6971faa61f
+
+```curl
+https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+```
+
+**GLM-4.5**
+open.bigmodel.cn/usercenter/proj-mgmt/apikeys
+export ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic  
+export ANTHROPIC_AUTH_TOKEN="3574a610f5bda1ec95fd14e4b4bdaa44.CverSrQxRm7LYqfx"
+
+
+
+
+
+####使用three.js 生成一个由立方体组成的猫咪，然后猫咪在一个平面上原地奔跑的动画，所有代码放在一个html文件里面
+
+创建一个 3D 粒子银河，包含旋转的星云和动态光照效果，ultrathink！
+
+从零打造一款 广 告 投放智能仪表盘，支持实时刷新、自由配置与多图表联动展示。
+
+- 核心数据用超大号中文粗体数字呈现，打造一眼可识别的视觉锚点
+- 整体采用中英文混排风格：中文主导、英文作点缀，增强国际化科技氛围
+- 页面布局强调视觉对比——重点内容用巨型数字、图形强化，次要信息则以细节形式缩小呈现
+- 支持多种图表类型（柱状、折线、饼图等），实时变动的数据可用伪造数据模拟
+- 数据视觉风格采用简洁线条构图，既突出信息，又保持界面清爽
+- 利用高亮纯色 + 透明度渐变制造科技感，避免不同色之间渐变混色
+- 页面滚动联动Apple 风格动效，每次向下滑动皆有过渡或内容浮现，基于 Framer Motion CDN 实现
+- 全站构建技术栈为 HTML5 + Tailwind CSS 3.0+ + JavaScript，界面风格需保持统一性
+- 所有图表组件（如 Chart.js 或 ECharts）必须融合整体视觉语言，不跳脱
+- 图标统一引入自 Font Awesome / Material Icons，通过 CDN 方式加载使用

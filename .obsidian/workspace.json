@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Claude Code.md",
+                "file": "AI/MCP.json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code"
+              "title": "MCP.json"
             }
           }
         ]
@@ -172,8 +172,22 @@
   },
   "active": "2dc1a7254ce1c15e",
   "lastOpenFiles": [
-    "AI/MCP.json.md",
+    "工具/Visual Studio Code 快捷键指南（Windows版）.md",
+    "工具/IntelliJ IDEA 快捷键指南（Windows & Linux）.md",
+    "工具/Google analytics.md",
+    "工具/Delivery 技巧.md",
+    "flow pro.png",
+    "e9e7b430-3964-4554-8cf0-73fc6df7e698.jfif",
+    "Weekly FIFO.md",
+    "AI/kiro 安装.md",
+    "AI/LLM.md",
+    "AI/Claude Code 实战 30 天干货速读｜效率暴涨 4 倍不是神话！.md",
+    "AI/Claude Code 安装.md",
+    "AI/AI Text.md",
+    "工具/VS code 插件.md",
+    "工具/IDEA快捷键.md",
     "AI/Claude Code.md",
+    "AI/MCP.json.md",
     "自媒体/Music.md",
     "AI/agent promot.md",
     "AI/Replit.md",
@@ -185,20 +199,7 @@
     "Technical/TypeScript.md",
     "短视频变现渠道.md",
     "自媒体",
-    "工具/VS code 插件.md",
-    "工具/IDEA快捷键.md",
     "devops/WSL.md",
-    "Technical/nestjs.md",
-    "Technical/React、ReactNative.md",
-    "devops/Linux.md",
-    "github/refly.md",
-    "devops/Cloudflare.md",
-    "Technical/Git 使用.md",
-    "Technical/UniApp.md",
-    "Technical/MongoDB 启动.md",
-    "Technical/前端学习进价.md",
-    "Technical/Angular.md",
-    "Technical/Gulp.md",
     "工具",
     "github",
     "未命名.canvas",

@@ -1,3 +1,20 @@
+`# Ubuntu / Debian 用户``curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo bash -``
+sudo apt-get install -y nodejs``node --version``
+# macOS 用户``sudo xcode-select --install`/bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh%29)
+          "`brew install node``node --version`
+
+
+
+# 安装 Node.js LTS 版本
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo bash -
+sudo apt-get install -y nodejs
+
+# 验证安装
+node --version
+sudo apt-get install npm
+
+
+
 快捷键
 
 1、打开终端 ctrl+alt+t
