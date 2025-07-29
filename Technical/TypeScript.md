@@ -1,3 +1,10 @@
+
+extends = 比较相等（or js 里面的 ==（对的不是三个因为这里是稀疏的） 
+? = if : = else 
+infer = 取值并起名字 
+...infer = for 并且拼出来新的数组
+
+
 # 常用的内置工具类型（Record、Partial 、 Required 、 Readonly、 Pick 、 Exclude 、 Extract 、 Omit）的使用
 
   
