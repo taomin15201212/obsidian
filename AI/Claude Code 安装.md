@@ -141,13 +141,23 @@ export ANTHROPIC_API_KEY=sk-jOxpDsXFoNJJOyyq6mcELhTKDEaV8HwKWh6dGN1gRbg2zgGM
 }
 
 
-**Qwen3 cc**
+**Qwen3-Coder cc**
+**[https://bailian.console.aliyun.com/](https://bailian.console.aliyun.com/)**
 https://dashscope.aliyuncs.com/compatible-mode/v1
 sk-904fd5652bc2456381983b6971faa61f
+export OPENAI_MODEL="qwen3-coder-plus"
 
-```curl
-https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
-```
+
+**[https://modelscope.cn/docs/model-service/API-Inference/intro](https://modelscope.cn/docs/model-service/API-Inference/intro)**
+ModelScope offers 2,000 free
+export OPENAI_API_KEY="your_api_key_here"
+export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
+export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
+
+**[https://modelstudio.console.alibabacloud.com/](https://modelstudio.console.alibabacloud.com/)**
+export OPENAI_API_KEY="your_api_key_here"
+export OPENAI_BASE_URL="https://dashscope-intl.aliyuncs.com/compatible-mode/v1"
+export OPENAI_MODEL="qwen3-coder-plus"
 
 **GLM-4.5**
 open.bigmodel.cn/usercenter/proj-mgmt/apikeys
