@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/MCP.json.md",
+                "file": "AI/BMad-Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP.json"
+              "title": "BMad-Method"
             }
           }
         ]
@@ -172,6 +172,13 @@
   },
   "active": "2dc1a7254ce1c15e",
   "lastOpenFiles": [
+    "AI/Claude Code 安装.md",
+    "AI/Claude Code 实战 30 天干货速读｜效率暴涨 4 倍不是神话！.md",
+    "AI/kiro 安装.md",
+    "AI/LLM.md",
+    "AI/MCP.json.md",
+    "AI/Vibe Saas.md",
+    "AI/BMad-Method.md",
     "工具/Visual Studio Code 快捷键指南（Windows版）.md",
     "工具/IntelliJ IDEA 快捷键指南（Windows & Linux）.md",
     "工具/Google analytics.md",
@@ -179,18 +186,12 @@
     "flow pro.png",
     "e9e7b430-3964-4554-8cf0-73fc6df7e698.jfif",
     "Weekly FIFO.md",
-    "AI/kiro 安装.md",
-    "AI/LLM.md",
-    "AI/Claude Code 实战 30 天干货速读｜效率暴涨 4 倍不是神话！.md",
-    "AI/Claude Code 安装.md",
     "AI/AI Text.md",
     "工具/VS code 插件.md",
     "工具/IDEA快捷键.md",
     "AI/Claude Code.md",
-    "AI/MCP.json.md",
     "自媒体/Music.md",
     "AI/agent promot.md",
-    "AI/Replit.md",
     "AI/AIVideo.md",
     "AI/AIAudio.md",
     "AI/AI知识共享自媒体方案.md",
