@@ -1,0 +1,7 @@
+{"type":"meta","id":"conv-1768225910061-311rfrwjf","title":"124124","createdAt":1768225910064,"updatedAt":1768225976908,"lastResponseAt":1768225951900,"sessionId":null,"currentNote":"Weekly FIFO.md","titleGenerationStatus":"failed"}
+{"type":"message","message":{"id":"msg-1768225911695-mjoqorcdy","role":"user","content":"124124","timestamp":1768225911695,"currentNote":"Weekly FIFO.md"}}
+{"type":"message","message":{"id":"msg-1768225911699-0itfldxw7","role":"assistant","content":"","timestamp":1768225911699,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768225920601-o696obi2u","role":"user","content":"123123","timestamp":1768225920601}}
+{"type":"message","message":{"id":"msg-1768225920603-13thek8j7","role":"assistant","content":"","timestamp":1768225920603,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768225951886-9m61rbn9q","role":"user","content":"124124","timestamp":1768225951886}}
+{"type":"message","message":{"id":"msg-1768225951888-my4s6l69n","role":"assistant","content":"","timestamp":1768225951888,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}

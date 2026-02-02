@@ -1,0 +1,13 @@
+{"type":"meta","id":"conv-1768222401570-glaqw9lqn","title":"13","createdAt":1768222401584,"updatedAt":1768223354335,"lastResponseAt":1768223054025,"sessionId":null,"currentNote":"Weekly FIFO.md","titleGenerationStatus":"failed"}
+{"type":"message","message":{"id":"msg-1768222402859-q4q4nun6c","role":"user","content":"13","timestamp":1768222402859,"currentNote":"Weekly FIFO.md"}}
+{"type":"message","message":{"id":"msg-1768222402863-9kzky5kfn","role":"assistant","content":"","timestamp":1768222402863,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768222692225-f89yhztrj","role":"user","content":"12","timestamp":1768222692225}}
+{"type":"message","message":{"id":"msg-1768222692228-hjivgqsju","role":"assistant","content":"","timestamp":1768222692228,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768222700316-02md2r43s","role":"user","content":"123123","timestamp":1768222700316}}
+{"type":"message","message":{"id":"msg-1768222700318-cet5hwrax","role":"assistant","content":"","timestamp":1768222700318,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768222947875-vjnzrs62r","role":"user","content":"123123","timestamp":1768222947875}}
+{"type":"message","message":{"id":"msg-1768222947877-pdhkp4fob","role":"assistant","content":"","timestamp":1768222947877,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768222982931-4b99zo2hi","role":"user","content":"123123","timestamp":1768222982931}}
+{"type":"message","message":{"id":"msg-1768222982933-u271vcrui","role":"assistant","content":"","timestamp":1768222982933,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768223054005-sen9y8mky","role":"user","content":"124124","timestamp":1768223054005}}
+{"type":"message","message":{"id":"msg-1768223054006-ud67v1aor","role":"assistant","content":"","timestamp":1768223054006,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}

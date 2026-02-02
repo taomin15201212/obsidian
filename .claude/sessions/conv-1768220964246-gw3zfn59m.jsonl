@@ -1,0 +1,3 @@
+{"type":"meta","id":"conv-1768220964246-gw3zfn59m","title":"who are you","createdAt":1768220964246,"updatedAt":1768221049558,"lastResponseAt":1768220979738,"sessionId":null,"currentNote":"Weekly FIFO.md","titleGenerationStatus":"failed"}
+{"type":"message","message":{"id":"msg-1768220979690-c5s5b9n40","role":"user","content":"who are you","timestamp":1768220979690,"currentNote":"Weekly FIFO.md"}}
+{"type":"message","message":{"id":"msg-1768220979705-tijepzxmy","role":"assistant","content":"","timestamp":1768220979705,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}

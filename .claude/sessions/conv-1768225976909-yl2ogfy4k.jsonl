@@ -1,0 +1,11 @@
+{"type":"meta","id":"conv-1768225976909-yl2ogfy4k","title":"124124","createdAt":1768225976910,"updatedAt":1768398515465,"lastResponseAt":1768398515464,"sessionId":null,"currentNote":"Weekly FIFO.md","titleGenerationStatus":"failed"}
+{"type":"message","message":{"id":"msg-1768225980627-5pqogc3nl","role":"user","content":"124124","timestamp":1768225980627,"currentNote":"Weekly FIFO.md"}}
+{"type":"message","message":{"id":"msg-1768225980629-u2xl6tuzv","role":"assistant","content":"","timestamp":1768225980629,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768226274530-d7hzi4nkt","role":"user","content":"123","timestamp":1768226274530}}
+{"type":"message","message":{"id":"msg-1768226274532-yyuarp62s","role":"assistant","content":"","timestamp":1768226274532,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768226506551-4zx3dd2l9","role":"user","content":"123123","timestamp":1768226506551}}
+{"type":"message","message":{"id":"msg-1768226506552-wxmtko13g","role":"assistant","content":"","timestamp":1768226506552,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768226560759-9z0iglfkd","role":"user","content":"123123123","timestamp":1768226560759}}
+{"type":"message","message":{"id":"msg-1768226560761-kszoq1kfe","role":"assistant","content":"","timestamp":1768226560761,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768398515268-d5kvitw0o","role":"user","content":"123","timestamp":1768398515270}}
+{"type":"message","message":{"id":"msg-1768398515320-acrb84kyt","role":"assistant","content":"","timestamp":1768398515320,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}

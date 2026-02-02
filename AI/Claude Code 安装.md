@@ -5,7 +5,7 @@ curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo bash -
 sudo apt-get install -y nodejs
 sudo apt-get install npm
 # 验证安装
-node --version
+node --version 
 
 ### macOS 用户
 # 安装 Xcode 命令行工具（如果尚未安装）

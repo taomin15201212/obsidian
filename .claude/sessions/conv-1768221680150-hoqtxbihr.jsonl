@@ -1,0 +1,11 @@
+{"type":"meta","id":"conv-1768221680150-hoqtxbihr","title":"1","createdAt":1768221680157,"updatedAt":1768222401560,"lastResponseAt":1768222271615,"sessionId":null,"currentNote":"Weekly FIFO.md","titleGenerationStatus":"failed"}
+{"type":"message","message":{"id":"msg-1768221683041-hngzv9usf","role":"user","content":"1","timestamp":1768221683041,"currentNote":"Weekly FIFO.md"}}
+{"type":"message","message":{"id":"msg-1768221683044-r9lcptb3w","role":"assistant","content":"","timestamp":1768221683044,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768222075075-uz8yip69w","role":"user","content":"1","timestamp":1768222075075}}
+{"type":"message","message":{"id":"msg-1768222075077-5qa9l5t9b","role":"assistant","content":"","timestamp":1768222075077,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768222105692-tayrvjs6a","role":"user","content":"12","timestamp":1768222105692}}
+{"type":"message","message":{"id":"msg-1768222105697-totczfhsm","role":"assistant","content":"","timestamp":1768222105697,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768222264795-oiwkru6wx","role":"user","content":"12","timestamp":1768222264795}}
+{"type":"message","message":{"id":"msg-1768222264797-phh165nmu","role":"assistant","content":"","timestamp":1768222264797,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}
+{"type":"message","message":{"id":"msg-1768222271602-6nky7wsqx","role":"user","content":"123123","timestamp":1768222271602}}
+{"type":"message","message":{"id":"msg-1768222271604-z4h2iiovz","role":"assistant","content":"","timestamp":1768222271604,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Claude Code process exited with code 127"}]}}

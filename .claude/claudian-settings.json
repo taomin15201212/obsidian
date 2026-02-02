@@ -1,0 +1,97 @@
+{
+  "userName": "",
+  "enableBlocklist": true,
+  "blockedCommands": {
+    "unix": [
+      "rm -rf",
+      "chmod 777",
+      "chmod -R 777"
+    ],
+    "windows": [
+      "del /s /q",
+      "rd /s /q",
+      "rmdir /s /q",
+      "format",
+      "diskpart",
+      "Remove-Item -Recurse -Force",
+      "Remove-Item -Force -Recurse",
+      "Remove-Item -r -fo",
+      "Remove-Item -fo -r",
+      "Remove-Item -Recurse",
+      "Remove-Item -r",
+      "ri -Recurse",
+      "ri -r",
+      "ri -Force",
+      "ri -fo",
+      "rm -r -fo",
+      "rm -Recurse",
+      "rm -Force",
+      "del -Recurse",
+      "del -Force",
+      "erase -Recurse",
+      "erase -Force",
+      "rd -Recurse",
+      "rmdir -Recurse",
+      "Format-Volume",
+      "Clear-Disk",
+      "Initialize-Disk",
+      "Remove-Partition"
+    ]
+  },
+  "permissionMode": "yolo",
+  "model": "MiniMax-M2.1",
+  "thinkingBudget": "off",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "allowedExportPaths": [
+    "~/Desktop",
+    "~/Downloads"
+  ],
+  "persistentExternalContextPaths": [],
+  "environmentVariables": "ANTHROPIC_AUTH_TOKEN=sk-cp-alDSXm12OUb-Pqwu_OwlKB4MgFgYGmfkdDyEwEJlYYhN-wwUH4cK3CgQDWTovie_nIjf7gcE8pI8pyVJLfANi0cgNll7c4FS0kRCQsTNuZyx6s-kjfncEaA\nANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic\nANTHROPIC_MODEL=MiniMax-M2.1",
+  "envSnippets": [
+    {
+      "id": "snippet-1768221510895",
+      "name": "GLM-4.5",
+      "description": "GLM-4.5",
+      "envVars": "ANTHROPIC_AUTH_TOKEN=3574a610f5bda1ec95fd14e4b4bdaa44.CverSrQxRm7LYqfx\nANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic\nANTHROPIC_MODEL=GLM-4.5"
+    },
+    {
+      "id": "snippet-1768222970123",
+      "name": "PATH",
+      "description": "",
+      "envVars": "PATH=/Users/keen/.nvm/versions/node/v24.7.0/bin/node"
+    },
+    {
+      "id": "snippet-1768223453606",
+      "name": "MiniMax-M2.1",
+      "description": "MiniMax-M2.1",
+      "envVars": "ANTHROPIC_AUTH_TOKEN=sk-cp-alDSXm12OUb-Pqwu_OwlKB4MgFgYGmfkdDyEwEJlYYhN-wwUH4cK3CgQDWTovie_nIjf7gcE8pI8pyVJLfANi0cgNll7c4FS0kRCQsTNuZyx6s-kjfncEaA\nANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic\nANTHROPIC_MODEL=MiniMax-M2.1"
+    }
+  ],
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "locale": "zh-CN",
+  "claudeCliPath": "~/.claude/local/node_modules/@anthropic-ai/claude-code/cli.js",
+  "claudeCliPaths": {
+    "macos": "~/.claude/local/node_modules/@anthropic-ai/claude-code/cli.js",
+    "linux": "",
+    "windows": ""
+  },
+  "loadUserClaudeSettings": false,
+  "activeConversationId": "conv-1768225976909-yl2ogfy4k",
+  "lastClaudeModel": "haiku",
+  "lastCustomModel": "",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic|ANTHROPIC_MODEL=MiniMax-M2.1",
+  "enabledPlugins": [
+    "document-skills@anthropic-agent-skills",
+    "gtd-coach@gtd-coach-marketplace",
+    "superpowers@superpowers-marketplace"
+  ]
+}

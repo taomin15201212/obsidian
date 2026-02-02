@@ -1,0 +1,11 @@
+{"type":"meta","id":"conv-1768223354341-42h89lre0","title":"123123","createdAt":1768223354344,"updatedAt":1768225910055,"lastResponseAt":1768225806338,"sessionId":null,"currentNote":"Weekly FIFO.md","titleGenerationStatus":"failed"}
+{"type":"message","message":{"id":"msg-1768223357943-lq4i377de","role":"user","content":"123123","timestamp":1768223357943,"currentNote":"Weekly FIFO.md"}}
+{"type":"message","message":{"id":"msg-1768223357945-3ebl9o496","role":"assistant","content":"","timestamp":1768223357945,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768223514197-z6yn9c2f6","role":"user","content":"123123","timestamp":1768223514197}}
+{"type":"message","message":{"id":"msg-1768223514199-p5a0je7jw","role":"assistant","content":"","timestamp":1768223514199,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768223585141-ps47zgu5f","role":"user","content":"133","timestamp":1768223585142}}
+{"type":"message","message":{"id":"msg-1768223585145-pt8gh37x4","role":"assistant","content":"","timestamp":1768223585145,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768224325810-qy2aw7jex","role":"user","content":"121313","timestamp":1768224325810}}
+{"type":"message","message":{"id":"msg-1768224325817-z79b28utj","role":"assistant","content":"","timestamp":1768224325817,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
+{"type":"message","message":{"id":"msg-1768225806283-t6vagua29","role":"user","content":"13123","timestamp":1768225806283}}
+{"type":"message","message":{"id":"msg-1768225806295-gf0iw0ey8","role":"assistant","content":"","timestamp":1768225806295,"toolCalls":[],"contentBlocks":[{"type":"text","content":"\n\n❌ **Error:** Failed to spawn Claude Code process: spawn node ENOENT"}]}}
