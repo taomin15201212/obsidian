@@ -1,1 +1,0 @@
-[stvlynn/twi.am: Twitter MBTI Receipt](https://github.com/stvlynn/twi.am/tree/main)

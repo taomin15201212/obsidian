@@ -39,7 +39,7 @@
     ]
   },
   "permissionMode": "yolo",
-  "model": "MiniMax-M2.1",
+  "model": "claude-sonnet-4-5",
   "thinkingBudget": "off",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -51,7 +51,7 @@
     "~/Downloads"
   ],
   "persistentExternalContextPaths": [],
-  "environmentVariables": "ANTHROPIC_AUTH_TOKEN=sk-cp-alDSXm12OUb-Pqwu_OwlKB4MgFgYGmfkdDyEwEJlYYhN-wwUH4cK3CgQDWTovie_nIjf7gcE8pI8pyVJLfANi0cgNll7c4FS0kRCQsTNuZyx6s-kjfncEaA\nANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic\nANTHROPIC_MODEL=MiniMax-M2.1",
+  "environmentVariables": "ANTHROPIC_AUTH_TOKEN=sk-ec9ce5e0673d02bcfe61875a418034f71c6d4243c60325542eb9ccd0e8bf019f\nANTHROPIC_BASE_URL=https://api.aigocode.com\nANTHROPIC_MODEL=claude-sonnet-4-5",
   "envSnippets": [
     {
       "id": "snippet-1768221510895",
@@ -78,17 +78,17 @@
     "focusInputKey": "i"
   },
   "locale": "zh-CN",
-  "claudeCliPath": "~/.claude/local/node_modules/@anthropic-ai/claude-code/cli.js",
+  "claudeCliPath": "",
   "claudeCliPaths": {
-    "macos": "~/.claude/local/node_modules/@anthropic-ai/claude-code/cli.js",
+    "macos": "",
     "linux": "",
     "windows": ""
   },
-  "loadUserClaudeSettings": false,
+  "loadUserClaudeSettings": true,
   "activeConversationId": "conv-1768225976909-yl2ogfy4k",
   "lastClaudeModel": "haiku",
   "lastCustomModel": "",
-  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic|ANTHROPIC_MODEL=MiniMax-M2.1",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.aigocode.com|ANTHROPIC_MODEL=claude-sonnet-4-5",
   "enabledPlugins": [
     "document-skills@anthropic-agent-skills",
     "gtd-coach@gtd-coach-marketplace",
